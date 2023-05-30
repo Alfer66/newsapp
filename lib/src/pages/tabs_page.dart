@@ -44,9 +44,7 @@ class _Paginas extends StatelessWidget {
       children: <Widget>[
         //PAG 1
         Tab1Page(),
-        Container(
-          color: Colors.green,
-        ),
+        Tab2Page(),
       ],
     );
   }
